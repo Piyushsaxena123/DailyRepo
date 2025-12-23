@@ -1,1 +1,2 @@
 # DailyRepo
+"Day 1"
