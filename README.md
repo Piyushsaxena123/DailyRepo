@@ -5,8 +5,7 @@
 "Day 4"<br>ccc
 "Day 5"<br>ccc
 "Day 6"<br>cc
-"Day 7"<br>c
-"Day 8"<br>c
+"Day 7"<br>cc
 "Day 9"<br>c
 "Day 10"<br>
 "Day 11"<br>
