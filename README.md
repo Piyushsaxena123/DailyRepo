@@ -4,7 +4,7 @@
 "Day 3"<br>q
 "Day 4"<br>
 "Day 5"<br>q
-"Day 6"<br>
+"Day 6"<br>q
 "Day 7"<br>
 "Day 8"<br>
 "Day 9"<br>
