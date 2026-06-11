@@ -1,6 +1,6 @@
  DailyRepo <br>
 "Day 1"<br>
-"Day 2"<br>
+"Day 2"<br>q
 "Day 3"<br>q
 "Day 4"<br>q
 "Day 5"<br>q
