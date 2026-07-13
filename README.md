@@ -1,6 +1,6 @@
  DailyRepo <br>
 "Day 1"<br>sc
-"Day 2"<br>fv
+"Day 2"<br>fvv
 "Day 3"<br>c
 "Day 4"<br>cc
 "Day 5"<br>acfv
