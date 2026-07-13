@@ -4,7 +4,7 @@
 "Day 3"<br>c
 "Day 4"<br>cc
 "Day 5"<br>acfv
-"Day 6"<br>c
+"Day 6"<br>cv
 "Day 7"<br>c
 "Day 8"<br>v
 "Day 9"<br>
