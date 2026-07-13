@@ -5,7 +5,7 @@
 "Day 4"<br>sg
 "Day 5"<br>sgf
 "Day 6"<br>scd
-"Day 7"<br>btggb
+"Day 7"<br>btggbg
 "Day 8"<br>ghj
 "Day 9"<br>
 "Day 10"<br>
