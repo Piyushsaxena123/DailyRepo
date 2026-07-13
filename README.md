@@ -2,7 +2,7 @@
 "Day 1"<br>sc
 "Day 2"<br>fvv
 "Day 3"<br>cd
-"Day 4"<br>cc
+"Day 4"<br>ccg
 "Day 5"<br>acfv
 "Day 6"<br>cvvd
 "Day 7"<br>c
